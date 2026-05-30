@@ -85,6 +85,13 @@ NSF/ANSI 40 & 245, the BNQ family, EPA OWTS Manual) were pinned to current
 editions. Sources are listed at the end of
 `reference/provincial_overview.md` and `reference/setback_comparison.md`.
 
+A second pass on **2026-05-30** read the primary sources directly to correct two
+items: Alberta's open-discharge setbacks were re-derived from the **PSS SOP 2021**
+(the 90 m figure is the *property-line* distance, not surface water; the
+watercourse setback is 45 m — §8.7.2.1, cross-checked against §8.5.2.1, §9.1.2.1,
+§10.1.2.1), and Saskatchewan's design guide was updated to the current **3rd ed.
+(Nov 2018)** in place of the superseded 2nd ed. (2009).
+
 A few honest residuals remain flagged **⚠ VERIFY** — whether NL's CNLR 803/96
 carries over under its 2019 Public Health Protection and Promotion Act, the
 current PEI department name, Nunavut's on-site-specific provisions, PEI's
