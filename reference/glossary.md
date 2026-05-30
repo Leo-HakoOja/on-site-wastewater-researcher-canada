@@ -117,7 +117,8 @@ residential capacity range is 1,514–5,678 L/day (400–1,500 gal/day).
 periodically pumped out and hauled away. A last-resort option where treatment/
 dispersal is not feasible.
 
-**Open discharge system** — A **distinctively Alberta** dispersal method (SOP
+**Open discharge system** — *Also called **pump out** (the common older / field
+name).* A **distinctively Alberta** dispersal method (SOP
 2021 §8.7) in which primary-treated effluent (Level 1 quality) is released to
 the ground surface through a designed outlet, with landscaping that contains
 and spreads the effluent on the property so it infiltrates within 30 m (100 ft)
@@ -130,6 +131,14 @@ water well, 100 m to a licensed municipal well, 45 m to a watercourse, 90 m
 to a property line, 45 m to a building. Hard restriction: not permitted on a
 quarter section where more than 4 parcels have been subdivided out (existing
 systems may remain).
+
+**Pump out** — The common older / colloquial field name for an **open discharge
+system** (see above). If someone asks about a "pump out," they almost certainly
+mean open discharge — surface release of Level-1 effluent under Alberta SOP 2021
+§8.7 — *not* the routine "pumping out" (emptying) of a septic or holding tank,
+which is a maintenance activity. Establish which is meant before answering: the
+two share a phrase but are unrelated. For the method, its rules, and setbacks,
+use the **open discharge system** entry.
 
 **Sewage lagoon** — An open earthen basin providing treatment via storage,
 settling, and biological action; used on larger rural lots in some Prairie
