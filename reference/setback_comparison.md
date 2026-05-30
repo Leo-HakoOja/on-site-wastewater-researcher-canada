@@ -113,14 +113,34 @@ wells and a different one for **dug** wells, both are shown (drilled / dug).
   Authorized Person.
 
 ### Alberta
+> **Important framing for Alberta:** unlike most Canadian regimes, Alberta
+> publishes **method-specific** separation tables — the setback depends on the
+> dispersal *method* (treatment field vs. open discharge vs. lagoon vs. drip
+> dispersal vs. privy), not a single residential row. The headline well /
+> surface-water figures in the matrix above are baseline; the method-specific
+> tables below from SOP 2021 are what an installer actually reads.
+
 - **Tanks** (septic, holding, effluent, lift, settling): ≥ **10 m** from a
   water source/water well, and ≥ **10 m** from a watercourse, per the SOP.
-- **Effluent disposal component:** ≥ **90 m (300 ft)** from the shore of a
-  lake, river, stream, or creek. _This is the largest fixed surface-water
-  setback in any Canadian on-site regime._
-- Disposal-field-to-well setbacks scale by well type and treatment class in the
-  SOP's tables. ⚠ VERIFY against the SOP 2021 separation-distance tables for
-  the case at hand.
+- **Sub-surface drip dispersal (§8.5.2.1):** 15 m to a water source/well,
+  100 m to a licensed municipal water well, 15 m to a watercourse, 1.5 m to
+  a property line, 5–10 m to a building (varies by foundation type).
+- **Open discharge systems (§8.7.2.1):** 50 m to a water source/well, 100 m
+  to a licensed municipal well, 45 m to a watercourse, 90 m to a property
+  line, 45 m to a building. _Open discharge requires Level 1 effluent, soil
+  texture that spreads (no coarse/medium/fine sands within 1.5 m of surface),
+  and is prohibited where more than 4 parcels have been subdivided out of a
+  quarter section._
+- **Sewage lagoons, single-family (§9.1.2.1):** 100 m to a water source/well,
+  100 m to a municipal well, 90 m to a watercourse, 30 m to a property line,
+  45 m to a building.
+- **Privy with watertight holding tank (§10.1.2.1):** 10 m to a water
+  source/well, 10 m to a watercourse, 1 m to property line (tank wall),
+  1.8 m to property line (tank vent).
+- The **90 m surface-water figure** quoted in the matrix is the open-discharge
+  property-line distance and the most-cited "Alberta is unusual" headline —
+  it sits alongside the equally-large 50 m and 100 m well figures for the
+  same method, all reflecting open discharge's larger required buffer.
 
 ### Saskatchewan
 - The Department of Health applies a **30 m** separation distance from both

@@ -113,6 +113,27 @@ L/day (1,500 Igal/day).
   **AOWMA** (Alberta Onsite Wastewater Management Association).
 - **Note:** the Alberta SOP is widely treated as a national benchmark, and
   AOWMA-style certification is recognized across much of Canada.
+- **Distinctive system types.** Alberta recognizes several dispersal/system
+  categories most other Canadian regimes do not:
+  - **Open discharge systems (SOP §8.7)** — primary-treated effluent (Level
+    1) released to ground surface through a designed outlet, with landscaping
+    to contain and spread effluent on the property; must infiltrate within
+    30 m (100 ft) of the discharge point. Soil-texture and subdivision
+    restrictions apply (see below). Setbacks under §8.7.2.1: **50 m to a
+    water well, 100 m to a licensed municipal well, 45 m to a watercourse,
+    90 m to a property line, 45 m to a building.** Hard limit: not allowed
+    on a quarter section where more than **4 parcels have been subdivided
+    out** (existing systems may remain).
+  - **Sewage lagoons (SOP Part 9)** — engineered evaporative/storage basins;
+    setbacks for a single-family dwelling lagoon under §9.1.2.1: 100 m to a
+    water well/source, 100 m to a municipal well, 90 m to a watercourse,
+    30 m to a property line, 45 m to a building.
+  - **LFH At-Grade Treatment Systems (SOP §8.6)** — forested-area dispersal
+    that uses a natural leaf-litter (LFH) horizon and snow cover; requires
+    Level 2 effluent.
+  Open discharge in particular is unusual nationally and is one reason the
+  Alberta SOP reads differently from other regimes — it explicitly addresses
+  a range of dispersal methods for the rural/agricultural property profile.
 
 ### Saskatchewan — **Confidence: High**
 - **Instrument:** **The Private Sewage Works Regulations** (Ministry of Health

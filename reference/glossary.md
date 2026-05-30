@@ -117,6 +117,20 @@ residential capacity range is 1,514–5,678 L/day (400–1,500 gal/day).
 periodically pumped out and hauled away. A last-resort option where treatment/
 dispersal is not feasible.
 
+**Open discharge system** — A **distinctively Alberta** dispersal method (SOP
+2021 §8.7) in which primary-treated effluent (Level 1 quality) is released to
+the ground surface through a designed outlet, with landscaping that contains
+and spreads the effluent on the property so it infiltrates within 30 m (100 ft)
+of the discharge point. Not a licence to put raw sewage on the ground —
+effluent must be treated to Level 1 first, and the soil texture must be
+suitable (no coarse/medium/fine sands within 1.5 m / 5 ft of surface). Most
+other Canadian on-site regimes do not recognize this as a permitted method.
+Setbacks under §8.7.2.1 are larger than for an in-ground field: 50 m to a
+water well, 100 m to a licensed municipal well, 45 m to a watercourse, 90 m
+to a property line, 45 m to a building. Hard restriction: not permitted on a
+quarter section where more than 4 parcels have been subdivided out (existing
+systems may remain).
+
 **Sewage lagoon** — An open earthen basin providing treatment via storage,
 settling, and biological action; used on larger rural lots in some Prairie
 jurisdictions.
