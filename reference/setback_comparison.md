@@ -53,7 +53,7 @@ wells and a different one for **dug** wells, both are shown (drilled / dug).
 | Jurisdiction | Drinking-water well | Surface water | Reference |
 |---|---|---|---|
 | British Columbia | **≥ 30 m** (domestic well) | percolation-based ⚠ | Sewerage System Regulation s.3.1(2)(b); SPM V3 |
-| Alberta | **10 m** (tank) ⚠ field per SOP table | **10 m** (tank) / **≥ 90 m** (dispersal to lake/river/stream/creek) | PSS SOP 2021 |
+| Alberta | **10 m** (tank); conv. field ⚠ per SOP table | **10 m** (tank) / **45 m** (open-discharge to watercourse); conv. field ⚠ per SOP table | PSS SOP 2021 §8.7.2.1 |
 | Saskatchewan | **30 m** | **30 m** | SK Onsite Wastewater Disposal Guide |
 | Manitoba | **30 m** | **30 m** (shoreline/watercourse) | M.R. 83/2003, Schedule A |
 | Ontario | **15 m** (drilled, casing ≥ 6 m) / **30 m** (other) | **15 m** | OBC Part 8, Table 8.2.1.6.B (Class 4) |
@@ -78,10 +78,13 @@ wells and a different one for **dug** wells, both are shown (drilled / dug).
   reward properly cased drilled wells with a *shorter* setback — ON 15 m, NS
   15.2 m, NL 16 m, NB 23 m, QC 15 m (sealed). The construction quality
   protects the aquifer, so the dispersal field can be closer.
-- **Alberta is the outlier on surface water.** A **90 m** setback from the
-  shore of a lake/river/stream/creek for the dispersal component is dramatically
-  larger than the 15 m–30.5 m most other provinces use. AB compensates by
-  letting *tanks* sit just 10 m away.
+- **Alberta's open-discharge method carries unusually large buffers.** For an
+  *open discharge* system — a distinctively Alberta dispersal method — SOP 2021
+  §8.7.2.1 requires **45 m to a watercourse, 50 m to a water well, and 90 m to a
+  property line**, far larger than the 15–30 m most provinces apply to a
+  conventional field. **Read these carefully: the 90 m is the *property-line*
+  distance, not the surface-water distance** — the two are easy to transpose.
+  AB compensates by letting *tanks* sit just 10 m from a well or watercourse.
 - **Atlantic Canada is strict near drinking-water bodies.** NB jumps to **75 m**
   if the surface water is a designated potable supply — far above the typical
   15 m. That's a sensitivity tool the populated, well-water-dependent Atlantic
@@ -137,10 +140,12 @@ wells and a different one for **dug** wells, both are shown (drilled / dug).
 - **Privy with watertight holding tank (§10.1.2.1):** 10 m to a water
   source/well, 10 m to a watercourse, 1 m to property line (tank wall),
   1.8 m to property line (tank vent).
-- The **90 m surface-water figure** quoted in the matrix is the open-discharge
-  property-line distance and the most-cited "Alberta is unusual" headline —
-  it sits alongside the equally-large 50 m and 100 m well figures for the
-  same method, all reflecting open discharge's larger required buffer.
+- **Don't transpose the open-discharge numbers.** Under SOP §8.7.2.1 the **90 m
+  is the property-line** distance and the **45 m is the watercourse** distance;
+  the well figures (50 m, 100 m municipal) are likewise far larger than a
+  conventional field's. All of them reflect open discharge's larger required
+  surface buffer — but the headline "Alberta = 90 m to surface water" is a
+  misread of the property-line figure and should not be repeated.
 
 ### Saskatchewan
 - The Department of Health applies a **30 m** separation distance from both
@@ -252,11 +257,11 @@ wells and a different one for **dug** wells, both are shown (drilled / dug).
 
 - BC — [Sewerage System Regulation, BC Reg 326/2004 (BC Laws)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/326_2004/);
   [Sewerage System SPM V3 (Sept 2014)](https://www2.gov.bc.ca/assets/gov/environment/waste-management/sewage/spmv3-24september2014.pdf);
-  [Sewerage System Policy for Setback from Wells](https://www2.gov.bc.ca/assets/gov/environment/waste-management/sewage/sewerage-system-repair-policy.pdf).
+  [Sewerage System Policy for Setback from Wells Based on Repairs or Alterations](https://www2.gov.bc.ca/assets/gov/environment/waste-management/sewage/sewerage-system-repair-policy.pdf).
 - AB — [Alberta PSS SOP 2021 (Safety Codes Council, public PDF)](https://ebs.safetycodes.ab.ca/documents/webdocs/PI/PSS_SOP_2021-web6.pdf);
   [Private Sewage Treatment Systems – Separation Distances (Gov. Alberta safety tips)](https://open.alberta.ca/dataset/b8c07f17-395d-4580-8a7f-45b395bc5b2d/resource/616e6f01-a2f1-4224-9ab0-88ffbc46aa20/download/2012-safety-tips-private-sewage-treatment-systems-separation-distances-september-2012.pdf).
-- SK — [Saskatchewan Onsite Wastewater Disposal Guide (2009)](https://fhhr.ca/Documents/PublicHealth/onsite-watewater-disposal-guide-jan-2009.pdf);
-  [3rd ed. (2018) — mirror](https://edgemontparkestates.ca/wp-content/uploads/2019/11/Onsite-Wastewater-Disposal-Guide-Copy-1.pdf).
+- SK — [Saskatchewan Onsite Wastewater Disposal Guide (3rd ed., Nov 2018 — current)](https://pubsaskdev.blob.core.windows.net/pubsask-prod/109211/109211-Onsite-watewater-disposal-guide-november-2018.pdf);
+  [2nd ed. (2009 — superseded)](https://fhhr.ca/Documents/PublicHealth/onsite-watewater-disposal-guide-jan-2009.pdf).
 - MB — [Onsite Wastewater Management Systems Regulation M.R. 83/2003 (CanLII)](https://www.canlii.org/en/mb/laws/regu/man-reg-83-2003/latest/man-reg-83-2003.html);
   [OWMS Disposal Field Application (metric form, ref. Schedule A)](https://www.gov.mb.ca/sd/envprograms/wastewater/pdf/owms_disposal_field_metric.pdf).
 - ON — [Building Code O. Reg. 332/12 (CanLII)](https://www.canlii.org/en/on/laws/regu/o-reg-332-12/latest/o-reg-332-12.html);

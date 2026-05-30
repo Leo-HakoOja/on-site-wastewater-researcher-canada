@@ -51,7 +51,8 @@ citing.
 - **AB** — *Private Sewage Systems Standard of Practice 2021* (Safety Codes
   Act), Safety Codes Council.
 - **SK** — *The Private Sewage Works Regulations* (Public Health Act, 1994) +
-  *Saskatchewan Onsite Wastewater Disposal Guide* (2nd ed., 2009).
+  *Saskatchewan Onsite Wastewater Disposal Guide* (3rd ed., November 2018;
+  supersedes the 2nd ed., 2009).
 - **MB** — *Onsite Wastewater Management Systems Regulation, M.R. 83/2003* (The
   Environment Act) + Supplementary Information Manual (2010).
 - **ON** — *Building Code* (O. Reg. 332/12) **Part 8 — Sewage Systems**.

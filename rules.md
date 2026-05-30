@@ -88,8 +88,9 @@ different, what does the variance suggest? Look for:
 
 - **Convergence** — when multiple jurisdictions land on the same number, that's
   a baseline (e.g., the ~30 m well-setback floor across most of Canada).
-- **Divergence** — when one is an outlier, ask *why* (e.g., Alberta's 90 m
-  surface-water setback for dispersal; BC's percolation-based approach).
+- **Divergence** — when one is an outlier, ask *why* (e.g., Alberta's
+  open-discharge method and its large separation buffers; BC's
+  percolation-based approach).
 - **Drift** — when older sources say one thing and newer ones say another,
   treat that as a clue something was amended.
 

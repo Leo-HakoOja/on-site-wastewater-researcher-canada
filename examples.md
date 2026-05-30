@@ -66,8 +66,8 @@ synthesized first.
 >
 > - **Blog (trade press):** says 100 ft. Useful as a lead, not as authority.
 > - **Government policy doc** (BC Ministry of Health, *Sewerage System Policy
->   for Setback from Wells*): says ≥ 30 m from a well supplying a domestic
->   water system.
+>   for Setback from Wells Based on Repairs or Alterations*): says ≥ 30 m from a
+>   well supplying a domestic water system.
 > - **The regulation itself** (BC Reg 326/2004, *Sewerage System Regulation*,
 >   s.3.1(2)(b)): the ≥ 30 m figure, plus an explicit mechanism to reduce it
 >   if a **Professional competent in hydrogeology** advises the reduction
@@ -90,7 +90,9 @@ synthesized first.
 > 1. **Atlantic Canada is missing entirely.** NB Reg 2009-137, NS Reg 194/2007
 >    (consolidated 213/2018), PEI's *Water Act* Sewage Disposal Systems
 >    Regulations (EC504/21, in force 2021), and NL's *Sanitation Regulations*
->    (CNLR 803/96) are all distinct regimes. Atlantic is also where some of
+>    (CNLR 803/96 — ⚠ confirm it still governs under NL's 2019 *Public Health
+>    Protection and Promotion Act*, which replaced the *Public Health Act* it
+>    was made under) are all distinct regimes. Atlantic is also where some of
 >    the harder rules live — e.g., NB's 75 m setback near a designated
 >    potable supply.
 > 2. **BC** is missing, and it's analytically the most interesting case —
@@ -126,10 +128,13 @@ synthesized first.
 >   distinguishes a properly cased drilled well, the setback drops sharply
 >   — ON 15 m, NS 15.2 m, NL 16 m, NB 23 m, QC 15 m (sealed). The
 >   construction protects the aquifer, so the field can be closer.
-> - **One outlier on surface water.** Alberta requires **90 m** from the
->   shore of a lake/river/stream/creek to a *dispersal field* — far above
->   the 15–30.5 m most other provinces use. AB compensates by allowing
->   *tanks* just 10 m away.
+> - **One outlier method.** Alberta's *open discharge* system — a distinctively
+>   AB dispersal method — carries unusually large buffers under SOP 2021
+>   §8.7.2.1: **45 m to a watercourse, 50 m to a water well, 90 m to a property
+>   line** — well above the 15–30 m most provinces apply to a conventional
+>   field. (Watch the labels: the 90 m is the *property line*, not the
+>   surface-water distance.) AB also lets *tanks* sit just 10 m from a well or
+>   watercourse.
 > - **One outlier on framing.** BC doesn't fix a single surface-water
 >   number; the SPM derives it from percolation rate and a hydrogeological
 >   judgement. BC's well number is hard; everything else is engineered.

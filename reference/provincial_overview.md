@@ -67,7 +67,7 @@ L/day (1,500 Igal/day).
 |---|---|---|---|---|
 | British Columbia | Sewerage System Regulation (Public Health Act) + Standard Practice Manual **V3 (Sept 2014)** | Regional health authorities / Ministry of Health | Type 1/2/3; **ROWP** (ASTTBC) or **Professional** | **High** |
 | Alberta | Private Sewage Systems **Standard of Practice 2021** (Safety Codes Act) | Safety Codes Council | Certified installer/designer; **AOWMA** training | **High** |
-| Saskatchewan | **The Private Sewage Works Regulations** (Public Health Act, 1994) + Onsite Wastewater Disposal Guide (2009) | Ministry of Health / Sask. Health Authority (public health inspectors) | Permit by PHI; < 18 m³/day | **High** |
+| Saskatchewan | **The Private Sewage Works Regulations** (Public Health Act, 1994) + Onsite Wastewater Disposal Guide (3rd ed., Nov 2018) | Ministry of Health / Sask. Health Authority (public health inspectors) | Permit by PHI; < 18 m³/day | **High** |
 | Manitoba | **Onsite Wastewater Management Systems Regulation, M.R. 83/2003** (The Environment Act) | Manitoba Environment & Climate Change | Registration model; installer licensing | **High** |
 | Ontario | **Building Code O. Reg. 332/12, Part 8** (Building Code Act) | Principal authority: municipality / health unit / conservation authority | **Class 1–5**; designer/installer holds **BCIN** | **High** |
 | Québec | **Q-2, r. 22** — waste water disposal systems for isolated dwellings (Environment Quality Act) | Municipalities + MELCCFP | BNQ-certified systems (NQ 3680-910 / CAN/BNQ 3680-600) | **High** |
@@ -138,7 +138,8 @@ L/day (1,500 Igal/day).
 ### Saskatchewan — **Confidence: High**
 - **Instrument:** **The Private Sewage Works Regulations** (Ministry of Health
   responsible), with **The Saskatchewan Onsite Wastewater Disposal Guide**
-  (2nd ed., January 2009) setting design/installation requirements. Communities
+  (**3rd ed., November 2018**, superseding the 2nd ed., January 2009) setting
+  design/installation requirements. Communities
   may add sewage-disposal bylaws under the **Public Health Act, 1994**. Related:
   **The Shoreland Pollution Control Regulations**.
 - **Administration:** **public health inspectors** (Saskatchewan Health
@@ -348,7 +349,7 @@ final work; on-site rules are revised regularly.
   [Sewerage System SPM V3 (Sept 2014)](https://www2.gov.bc.ca/assets/gov/environment/waste-management/sewage/spmv3-24september2014.pdf);
   [Authorized Persons under the Sewerage System Regulation](https://www2.gov.bc.ca/assets/gov/environment/waste-management/sewage/reg-pract-pro-persons.pdf).
 - SK — [Private Sewage Works (Gov. of Saskatchewan)](https://www.saskatchewan.ca/residents/environment-public-health-and-safety/environmental-health/private-sewage-works);
-  [Saskatchewan Onsite Wastewater Disposal Guide (2009)](https://fhhr.ca/Documents/PublicHealth/onsite-watewater-disposal-guide-jan-2009.pdf).
+  [Saskatchewan Onsite Wastewater Disposal Guide (3rd ed., Nov 2018 — current)](https://pubsaskdev.blob.core.windows.net/pubsask-prod/109211/109211-Onsite-watewater-disposal-guide-november-2018.pdf).
 - MB — [Onsite Wastewater Management Systems Regulation, M.R. 83/2003 (CanLII)](https://www.canlii.org/en/mb/laws/regu/man-reg-83-2003/latest/man-reg-83-2003.html).
 - ON — [Building Code O. Reg. 332/12 (CanLII)](https://www.canlii.org/en/on/laws/regu/o-reg-332-12/latest/o-reg-332-12.html);
   [Part 8 classification of systems (buildingcode.online)](https://www.buildingcode.online/1151.html).
